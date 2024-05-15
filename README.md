@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Sebastain and I'm a Front-end Developer</h2>
+# Hi 👋! My name is Sebastain, I'm Front-end Developer
 
-###
+➤ An IT student of the third year who is currently seeking his first commercial experience in the form of an internship or apprenticeship in the field of front-end/full stack programming.
+ 
+➤ I have been actively building my skills in frontend development through a combination of academic coursework and self-directed learning. I have gained proficiency in HTML, CSS, and JavaScript and recently started exploring React, TypeScript and Tailwind CSS. I am eager to apply my knowledge and skills to real-world projects.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sebastian&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -26,8 +26,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Sebastian/Sebastian/output/snake.svg" alt="Snake animation" />
-
-###
