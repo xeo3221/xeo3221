@@ -1,4 +1,4 @@
-# Hi 👋! My name is Sebastain, I'm Front-end Developer
+# Hi 👋! My name is Sebastian, I'm Front-end Developer
 
 
 ➤ An IT student of the third year who is currently seeking his first commercial experience in the form of an internship or apprenticeship in the field of front-end/full stack programming.
