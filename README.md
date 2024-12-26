@@ -1,10 +1,9 @@
 # Hi 👋! My name is Sebastian, I'm Front-end Developer
 
 
-➤ An IT student of the third year who is currently seeking his first commercial experience in the form of an internship or apprenticeship in the field of front-end/full stack programming.
-
+➤ An IT student of the fourth year who is currently seeking his first commercial experience in the form of an internship or apprenticeship in the field of front-end/full stack programming.
  
-➤ I have been actively building my skills in frontend development through a combination of academic coursework and self-directed learning. I have gained proficiency in HTML, CSS, and JavaScript and recently started exploring React, TypeScript and Tailwind CSS. I am eager to apply my knowledge and skills to real-world projects.
+➤ I have been actively building my skills in frontend development through a combination of academic coursework and self-directed learning. I have gained proficiency in HTML, CSS, and JavaScript and recently started exploring React/Next.js, TypeScript and Tailwind CSS. I am eager to apply my knowledge and skills to real-world projects.
 
 
 
