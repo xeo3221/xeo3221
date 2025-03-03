@@ -64,10 +64,8 @@
 
 
 ## 📫 Let's Connect
-📧 Feel free to reach out via email or LinkedIn! I'm always open to networking and discussing new opportunities.
-
+📧 Feel free to reach out via <span><a class="" target="_blank" href="https://www.linkedin.com/in/sswiderski/">LinkedIn!</a></span> I'm always open to networking and discussing new opportunities.
  <!-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> -->
-
 
 <!-- 
 <div align="center">
