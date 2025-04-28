@@ -1,8 +1,8 @@
 # Hi 👋! My name is Sebastian, I'm a Junior Full-Stack Developer
 
-➤ I am a passionate IT student in my fourth year, currently seeking my first commercial experience as a **Junior Front-end/Full-Stack Developer**.
+➤ I am a passionate IT student in my fourth year, currently seeking commercial experience as a **Junior Developer**.
 
-➤ I specialize in building **modern web applications** using **Next.js, React, TypeScript, and Tailwind CSS**. My journey started with **HTML, CSS, and JavaScript**, but I quickly expanded my stack to include **full-stack development**. I am highly motivated to apply my skills in a professional environment and contribute to real-world projects.
+➤ I specialize in building **modern web applications** using **Next.js, React, React Native, TypeScript, and Tailwind CSS**. My journey started with **HTML, CSS, and JavaScript**, but I quickly expanded my stack to include **full-stack development**. I am highly motivated to apply my skills in a professional environment and contribute to real-world projects.
 
 ➤ I enjoy learning new technologies, solving coding challenges, and continuously improving my skills. I am open to internship, apprenticeship, or junior-level opportunities where I can grow as a developer.
 
