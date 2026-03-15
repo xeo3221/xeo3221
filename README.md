@@ -1,6 +1,6 @@
 # Hi 👋! My name is Sebastian, I'm a Full-Stack Developer
 
-➤ I am a passionate IT student in my fourth year, I specialize in building **modern web applications** using **Next.js, React, React Native, TypeScript, and Tailwind CSS**. My journey started with **HTML, CSS, and JavaScript**, but I quickly expanded my stack to include **full-stack development**. I am highly motivated to apply my skills in a professional environment and contribute to real-world projects.
+➤ Software Engineer building modern full-stack web and mobile apps (Next.js, React Native, TypeScript). Passionate about 0→1 product development, I specialize in integrating Agentic AI workflows and designing scalable monorepo architectures (Turborepo, Convex). Focused on shipping high-performance, SEO-optimized tools that provide seamless human-AI interactions.
 
 ## 🚀 Tech Stack & Tools
 ### 🖥️ Frontend
